@@ -1,0 +1,37 @@
+body {
+  background-color: #ecf0f1;
+}
+
+.col-xs-6 {
+  float: none !important;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.btn-group-wrap {
+  text-align: center;
+  margin-top: 30px;
+}
+
+div.btn-group {
+  margin: 0 auto;
+  text-align: center;
+  width: inherit;
+  display: inline-block;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.btn-primary {
+  color: #ecf0f1 !important;
+  background-color: #2980b9 !important;
+  border-color: #2980b9 !important;
+}
